@@ -1,5 +1,4 @@
-# Title
-Travelling Salesman Problem (TSP) using Python
+# Travelling Salesman Problem (TSP) using Python
 
 # Aim
 To implement a solution for the Travelling Salesman Problem (TSP) in Python, which finds the shortest possible route that visits each city exactly once and returns to the starting city.
